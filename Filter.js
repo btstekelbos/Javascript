@@ -1,3 +1,5 @@
+// Looks through an array and only returns elements where the key value pair is: "event" : "addMe!"
+
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
   'event' : 'addMe!'
